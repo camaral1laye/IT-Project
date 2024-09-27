@@ -1,5 +1,5 @@
 # IT-Project
-
+Each day will cover specific technical areas, practical tasks, and project-focused preparation to ensure you're well-prepared.
 ---
 
 ### **Day 1: Hardware and Software Installation and Configuration**
