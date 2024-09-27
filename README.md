@@ -1,5 +1,4 @@
 # IT-Project
-Based on the job description and your resume, here's a **5-day study plan** designed to help you prepare for the IT Intern role at the Casino Reinvestment Development Authority, focusing on key areas expected in the position. Each day will cover specific technical areas, practical tasks, and project-focused preparation to ensure you're well-prepared.
 
 ---
 
